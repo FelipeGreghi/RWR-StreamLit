@@ -25,7 +25,7 @@ with col3:
 
 # Right side column for metrics
 with st.sidebar:
-    st.image("Files\image.png")
+    st.image("https://static.wixstatic.com/media/58a24e_2239139f85b14f73a10495bc6f54ebbb~mv2.png/v1/crop/x_3,y_0,w_801,h_424/fill/w_298,h_158,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rwr-.png")
     st.divider()
     st.title("**Dashboard de Vendas**")
     st.subheader("**Resumo do mês**")
