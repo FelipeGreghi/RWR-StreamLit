@@ -25,7 +25,7 @@ with col3:
 
 # Right side column for metrics
 with st.sidebar:
-    st.image("Files\image.webp")
+    st.image("Files\image.png")
     st.divider()
     st.title("**Dashboard de Vendas**")
     st.subheader("**Resumo do mês**")
