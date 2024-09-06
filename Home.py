@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 
-st.set_page_config(page_title="Home Page", page_icon=":car:", layout="wide")
+st.set_page_config(page_title="RWR DashBoard", page_icon=":bar_chart:", layout="wide")
 
 # Load CSS
 def load_css(file_name):
