@@ -1,0 +1,22 @@
+[data-testid="column"] {
+    background-color: #333333;
+    border-radius: 5px;
+    padding: 1em 2em;
+}
+
+[data-testid="stAppViewBlockContainer"] [data-testid="stMetricLabel"] {
+    color: #ffffff;
+    font-size: 1em;
+}
+
+[data-testid="stAppViewBlockContainer"] [data-testid="stMetricValue"] {
+    color: #ffffff;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+[data-testid="stAppViewBlockContainer"] h2 {
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: 700;
+}
